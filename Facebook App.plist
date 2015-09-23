@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL types</key>
+	<array>
+		<dict>
+			<key>URL Schemes</key>
+			<array>
+				<string>fb692559907503768</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookDisplayName</key>
+	<string>Hacker Outbreak</string>
+	<key>FacebookAppID</key>
+	<string>692559907503768</string>
+</dict>
+</plist>

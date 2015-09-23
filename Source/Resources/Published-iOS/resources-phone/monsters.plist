@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>monsters/monster_0000_Layer-1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 36}, {28, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {28, 33}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+		<key>monsters/monster_0004_Layer-5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 71}, {26, 33}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {26, 33}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+		<key>monsters/monster_0013_Layer-14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{89, 29}, {26, 32}}</string>
+			<key>offset</key>
+			<string>{2, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 1}, {26, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+		<key>monsters/monster_0014_Layer-15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{31, 35}, {28, 32}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 1}, {28, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+		<key>monsters/monster_0021_Layer-22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{61, 29}, {26, 32}}</string>
+			<key>offset</key>
+			<string>{-1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {26, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+		<key>monsters/monster_0022_Layer-23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{59, 69}, {26, 32}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {26, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+		<key>monsters/monster_0030_Layer-31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{31, 1}, {28, 32}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {28, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+		<key>monsters/monster_0031_Layer-32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {28, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {28, 33}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+		<key>monsters/monster_0039_Layer-40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{29, 71}, {28, 32}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 0}, {28, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+		<key>monsters/monster_0040_Layer-41.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{87, 1}, {26, 32}}</string>
+			<key>offset</key>
+			<string>{2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 0}, {26, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 33}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{128, 128}</string>
+		<key>textureFileName</key>
+		<string>monsters.png</string>
+	</dict>
+</dict>
+</plist>

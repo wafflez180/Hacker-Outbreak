@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "05BFEC66B28EE952617BECC21F59729A77ADC215+++B51CE59",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "05BFEC66B28EE952617BECC21F59729A77ADC215+++B51CE59" : 0,
+    "FDCE10DC520A2421D221B0BFBEE13D6E6C8C9537+++5C5A964" : 0,
+    "324B553F-D846-4DB9-931F-1F8869D09BBB+++CF79ABE" : 0,
+    "65D5981269B305543BB70310C284B264509D207C+++DF4337E" : 0,
+    "65D5981269B305543BB70310C284B264509D207C+++E559DEE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "87130801-8A2C-478E-9657-B45ACC0C1524",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "05BFEC66B28EE952617BECC21F59729A77ADC215+++B51CE59" : "Hacker-Outbreak-Repo\/",
+    "FDCE10DC520A2421D221B0BFBEE13D6E6C8C9537+++5C5A964" : "game-repo",
+    "324B553F-D846-4DB9-931F-1F8869D09BBB+++CF79ABE" : "TheHackingGame",
+    "65D5981269B305543BB70310C284B264509D207C+++DF4337E" : "",
+    "65D5981269B305543BB70310C284B264509D207C+++E559DEE" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TheHackingGame",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TheHackingGame.spritebuilder\/TheHackingGame.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:wafflez180\/Hacker-Outbreak.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "05BFEC66B28EE952617BECC21F59729A77ADC215+++B51CE59"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/Wafflez180\/HackingGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "324B553F-D846-4DB9-931F-1F8869D09BBB+++CF79ABE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Wafflez180\/HackingGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65D5981269B305543BB70310C284B264509D207C+++DF4337E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Wafflez180\/HackingGame.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65D5981269B305543BB70310C284B264509D207C+++E559DEE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:mgwu-students\/arthur-araujo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDCE10DC520A2421D221B0BFBEE13D6E6C8C9537+++5C5A964"
+    }
+  ]
+}

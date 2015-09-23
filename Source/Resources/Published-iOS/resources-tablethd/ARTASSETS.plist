@@ -1,0 +1,1669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>ARTASSETS/RADAR.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2589, 365}, {1274, 1264}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1274, 1264}}</string>
+			<key>sourceSize</key>
+			<string>{1274, 1264}</string>
+		</dict>
+		<key>ARTASSETS/button_store_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2445, 1051}, {129, 107}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {129, 107}}</string>
+			<key>sourceSize</key>
+			<string>{129, 107}</string>
+		</dict>
+		<key>ARTASSETS/defend_red_1 copy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{311, 1391}, {296, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {296, 152}}</string>
+			<key>sourceSize</key>
+			<string>{296, 152}</string>
+		</dict>
+		<key>ARTASSETS/defendbuttonhighlighted.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3865, 367}, {364, 220}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {364, 220}}</string>
+			<key>sourceSize</key>
+			<string>{364, 220}</string>
+		</dict>
+		<key>ARTASSETS/delete_blue_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2317, 1922}, {144, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {144, 152}}</string>
+			<key>sourceSize</key>
+			<string>{144, 152}</string>
+		</dict>
+		<key>ARTASSETS/delete_button_highlighted.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3865, 733}, {204, 212}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {204, 212}}</string>
+			<key>sourceSize</key>
+			<string>{204, 212}</string>
+		</dict>
+		<key>ARTASSETS/delete_red_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1973, 1999}, {144, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {144, 152}}</string>
+			<key>sourceSize</key>
+			<string>{144, 152}</string>
+		</dict>
+		<key>ARTASSETS/enemy_green_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1283, 1051}, {850, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {850, 180}}</string>
+			<key>sourceSize</key>
+			<string>{850, 180}</string>
+		</dict>
+		<key>ARTASSETS/enemy_red_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3865, 939}, {850, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {850, 180}}</string>
+			<key>sourceSize</key>
+			<string>{850, 180}</string>
+		</dict>
+		<key>ARTASSETS/header_blue_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2589, 183}, {1280, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1280, 180}}</string>
+			<key>sourceSize</key>
+			<string>{1280, 180}</string>
+		</dict>
+		<key>ARTASSETS/header_red_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2589, 1}, {1280, 180}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1280, 180}}</string>
+			<key>sourceSize</key>
+			<string>{1280, 180}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_a.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1973, 2145}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_b.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2779, 2001}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_c.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2837, 1789}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_d.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 2007}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_e.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{729, 2343}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_f.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3087, 2001}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2127, 2105}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_h.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3915, 1897}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_i.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2127, 1999}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_j.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 1853}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_k.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{575, 2343}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_l.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3241, 2001}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_m.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2281, 2068}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3761, 1897}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_o.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 2315}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_p.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 1699}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_q.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1657, 2335}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_r.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2933, 2001}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_s.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2625, 2053}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_t.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3607, 1895}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_u.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{469, 2161}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_v.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2445, 1458}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_w.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1503, 2335}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1815, 2223}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_y.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2471, 2053}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_blue_z.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3453, 1895}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_a.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1195, 2335}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_b.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3299, 1895}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_c.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2589, 2159}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_d.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3145, 1895}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_e.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1349, 2335}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_f.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2991, 1895}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1969, 2251}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_h.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2625, 1947}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_i.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2127, 2211}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_j.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2471, 1947}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_k.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2281, 2174}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_l.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2837, 1895}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_m.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2435, 2159}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3915, 1791}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_o.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2779, 2107}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_p.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3761, 1791}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_q.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1815, 2329}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_r.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3607, 1789}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_s.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3703, 2003}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_t.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3453, 1789}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_u.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3549, 2001}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_v.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3299, 1789}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_w.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3395, 2001}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3145, 1789}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_y.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3857, 2003}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keybaord_red_z.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2991, 1789}, {104, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {104, 152}}</string>
+			<key>sourceSize</key>
+			<string>{104, 152}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_base_blue.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 187}, {1280, 1048}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1280, 1048}}</string>
+			<key>sourceSize</key>
+			<string>{1280, 1048}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_base_red.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1307, 1}, {1280, 1048}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1280, 1048}}</string>
+			<key>sourceSize</key>
+			<string>{1280, 1048}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_a.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 1869}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_b.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1505, 1861}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_c.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1229, 1703}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_d.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{929, 1237}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_e.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2135, 1367}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_f.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2527, 1789}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2181}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_h.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1195, 1861}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_i.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1865}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_j.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{619, 1237}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_k.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1901, 1293}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_l.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3457, 1631}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_m.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2023}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 1711}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_o.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1707}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_p.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2369, 1612}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_q.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2135, 1209}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_r.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3147, 1631}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_s.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{575, 1869}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_t.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{575, 1711}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_u.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{311, 1699}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_v.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2059, 1525}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_w.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2135, 1051}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2837, 1631}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_y.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1815, 1913}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_blue_z.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1539, 1703}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_a.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1849, 1603}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_b.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{575, 2185}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_c.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{919, 1553}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_d.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{311, 2319}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_e.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1229, 1545}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_f.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2497}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_g.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{919, 1395}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_h.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 2185}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_i.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1549}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_j.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{575, 2027}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_k.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1539, 1545}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_l.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1505, 2019}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_m.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2007, 1683}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_n.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1195, 2177}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_o.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{609, 1553}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_p.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1505, 2177}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_q.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1391}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_r.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 2339}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_s.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1239, 1387}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_t.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2527, 1631}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_u.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1549, 1387}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_v.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{311, 2009}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_w.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{609, 1395}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_x.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1195, 2019}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_y.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2007, 1841}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/keyboard_red_z.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 2027}, {156, 308}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {156, 308}}</string>
+			<key>sourceSize</key>
+			<string>{156, 308}</string>
+		</dict>
+		<key>ARTASSETS/life_bar_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1901, 1233}, {170, 58}}</string>
+			<key>offset</key>
+			<string>{0, 32}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {170, 58}}</string>
+			<key>sourceSize</key>
+			<string>{170, 122}</string>
+		</dict>
+		<key>ARTASSETS/life_bar_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4047, 939}, {106, 44}}</string>
+			<key>offset</key>
+			<string>{0, -8}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{32, 47}, {106, 44}}</string>
+			<key>sourceSize</key>
+			<string>{170, 122}</string>
+		</dict>
+		<key>ARTASSETS/life_bar_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{4047, 1047}, {38, 26}}</string>
+			<key>offset</key>
+			<string>{1, -48}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{67, 96}, {38, 26}}</string>
+			<key>sourceSize</key>
+			<string>{170, 122}</string>
+		</dict>
+		<key>ARTASSETS/reddotvirus.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2059, 1293}, {74, 74}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 74}}</string>
+			<key>sourceSize</key>
+			<string>{74, 74}</string>
+		</dict>
+		<key>ARTASSETS/send_blue_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{311, 1545}, {296, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {296, 152}}</string>
+			<key>sourceSize</key>
+			<string>{296, 152}</string>
+		</dict>
+		<key>ARTASSETS/send_red_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2445, 1160}, {296, 116}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {296, 116}}</string>
+			<key>sourceSize</key>
+			<string>{296, 116}</string>
+		</dict>
+		<key>ARTASSETS/sendbuttonhighlighted.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{3871, 1}, {364, 220}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {364, 220}}</string>
+			<key>sourceSize</key>
+			<string>{364, 220}</string>
+		</dict>
+		<key>ARTASSETS/space_blue_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1237}, {616, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {616, 152}}</string>
+			<key>sourceSize</key>
+			<string>{616, 152}</string>
+		</dict>
+		<key>ARTASSETS/space_red_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1283, 1233}, {616, 152}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {616, 152}}</string>
+			<key>sourceSize</key>
+			<string>{616, 152}</string>
+		</dict>
+		<key>ARTASSETS/store_item_green_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {1304, 184}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {1304, 184}}</string>
+			<key>sourceSize</key>
+			<string>{1304, 184}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>textureFileName</key>
+		<string>ARTASSETS.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>OtherImages/Bitcoin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{333, 977}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{20, 20}</string>
+		</dict>
+		<key>OtherImages/Bluetooth.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 977}, {41, 72}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {41, 72}}</string>
+			<key>sourceSize</key>
+			<string>{41, 72}</string>
+		</dict>
+		<key>OtherImages/SendButtonNormalState.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{221, 977}, {54, 28}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {54, 28}}</string>
+			<key>sourceSize</key>
+			<string>{57, 30}</string>
+		</dict>
+		<key>OtherImages/SendButtonSelectedState.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{277, 977}, {54, 28}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 1}, {54, 28}}</string>
+			<key>sourceSize</key>
+			<string>{57, 30}</string>
+		</dict>
+		<key>OtherImages/SpaceButton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 977}, {128, 34}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 5}, {128, 34}}</string>
+			<key>sourceSize</key>
+			<string>{138, 44}</string>
+		</dict>
+		<key>OtherImages/StoreButton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{75, 977}, {14, 36}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 5}, {14, 36}}</string>
+			<key>sourceSize</key>
+			<string>{30, 44}</string>
+		</dict>
+		<key>OtherImages/backgroundoflives.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 555}, {420, 420}}</string>
+			<key>offset</key>
+			<string>{3, -29}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{71, 58}, {420, 420}}</string>
+			<key>sourceSize</key>
+			<string>{557, 478}</string>
+		</dict>
+		<key>OtherImages/wifi1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 1}, {132, 98}}</string>
+			<key>offset</key>
+			<string>{7, -268}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{498, 697}, {132, 98}}</string>
+			<key>sourceSize</key>
+			<string>{1115, 956}</string>
+		</dict>
+		<key>OtherImages/wifi2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{423, 555}, {472, 342}}</string>
+			<key>offset</key>
+			<string>{6, -147}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{327, 454}, {472, 342}}</string>
+			<key>sourceSize</key>
+			<string>{1115, 956}</string>
+		</dict>
+		<key>OtherImages/wifi3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {768, 552}}</string>
+			<key>offset</key>
+			<string>{6, -42}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{179, 244}, {768, 552}}</string>
+			<key>sourceSize</key>
+			<string>{1115, 956}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>OtherImages.png</string>
+	</dict>
+</dict>
+</plist>

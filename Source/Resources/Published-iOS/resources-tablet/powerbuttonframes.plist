@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>powerbuttonframes/backgroundpowerbutton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 338}, {335, 335}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {335, 335}}</string>
+			<key>sourceSize</key>
+			<string>{335, 335}</string>
+		</dict>
+		<key>powerbuttonframes/backgroundpowerbuttonpressed.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {335, 335}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {335, 335}}</string>
+			<key>sourceSize</key>
+			<string>{335, 335}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 675}, {294, 320}}</string>
+			<key>offset</key>
+			<string>{1, 13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{64, 37}, {294, 320}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{595, 597}, {296, 296}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{63, 63}, {296, 296}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{297, 675}, {296, 296}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{63, 63}, {296, 296}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{636, 299}, {294, 294}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{64, 64}, {294, 294}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1189, 595}, {294, 288}}</string>
+			<key>offset</key>
+			<string>{1, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{64, 69}, {294, 288}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{932, 299}, {294, 292}}</string>
+			<key>offset</key>
+			<string>{1, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{64, 66}, {294, 292}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{934, 1}, {294, 292}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{64, 65}, {294, 292}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{893, 595}, {294, 294}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{64, 64}, {294, 294}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{338, 1}, {296, 296}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{63, 63}, {296, 296}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{338, 299}, {296, 296}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{63, 63}, {296, 296}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+		<key>powerbuttonframes/powerbutton9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{636, 1}, {296, 296}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{63, 63}, {296, 296}}</string>
+			<key>sourceSize</key>
+			<string>{421, 421}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{2048, 1024}</string>
+		<key>textureFileName</key>
+		<string>powerbuttonframes.png</string>
+	</dict>
+</dict>
+</plist>
